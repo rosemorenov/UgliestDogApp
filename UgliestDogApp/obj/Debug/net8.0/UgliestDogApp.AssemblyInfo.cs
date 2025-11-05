@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UgliestDogApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66a765662603c9334032e8f1a507a101c10be3f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36c41fba6d05a554368553cde87d6fc7c1193de7")]
 [assembly: System.Reflection.AssemblyProductAttribute("UgliestDogApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UgliestDogApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
